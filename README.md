@@ -14,4 +14,4 @@
 - Merge COnflicts
 - git log
 - git reset
-
+### PRACTICE
