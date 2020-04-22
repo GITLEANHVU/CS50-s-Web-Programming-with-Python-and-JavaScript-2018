@@ -35,8 +35,36 @@
 - div_span.html
 - GitHub Pages
 # Week2: HTML,CSS - Lecture  1 - CS50'S Web Programming with Python and JavaScript 2018
-
-
+- introduction
+- Branching
+  + git branch
+  + git checkout
+  + git merge
+- Remotes
+- Forks
+- Pull Requests
+- links0.html
+- link1.html
+- HTML5
+- form.html
+-CSS
+- multiple.html
+- descendant.html
+- child.html
+- attribute.html
+- hover.html
+- before.html
+- selection.html
+- CSS Selectors
+- Responsive Design
+- print.html
+- responsive0.html
+- responsive1.htm
+- alert.html
+- variables.html
+- Sass
+- nesting.html
+- inheritance.html
 
 
 
